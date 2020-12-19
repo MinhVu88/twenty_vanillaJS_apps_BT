@@ -1,0 +1,11 @@
+1/ create the canvas
+2/ create & draw ball
+3/ create & draw paddle
+4/ create bricks using nested loops, forEach
+5/ draw score
+6/ add update() & requestAnimationFrame() for animation
+7/ move paddle using keyboard event handlers
+8/ move ball (most in-depth part)
+9/ add wall boundaries
+10/ increase scores when bricks break
+11/ create lose functionality: redraw bricks & reset scores
